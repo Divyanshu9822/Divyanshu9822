@@ -2,13 +2,13 @@
 <h3 align="center">Frontend Web Developer | Python | JavaScript | Java | DSA | ML Enthusiast</h3>
 <br/>
 
-- 🔭 I’m currently working as ** contributor in Timechain summer of code and Social summer of code **
+- 🔭 I’m currently working as contributor in Timechain summer of code and Social summer of code
 
 - 🌱 I’m currently learning **DSA and Machine learning**
 
 - 👯 I’m looking to collaborate in **open source projects**
 
-- 👨‍💻 All of my projects are available at [my portfolio](divyanshu-prasad.netlify.app)
+- 👨‍💻 All of my projects are available at [my portfolio](https://divyanshu-prasad.netlify.app)
 
 - 💬 Ask me about **react, python and java**
 
