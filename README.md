@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as SDE Intern<br><br>🌱 I’m currently learning Data science<br><br>👯 I’m looking to collaborate on web dev projects<br><br>👨‍💻 All of my experiences and projects are available at my [portfolio](https://divyanshu-prasad.vercel.app)<br><br>💬 Ask me about react, svelte, python and java<br><br>📫 How to reach me divyanshu9871@gmail.com<br><br>⚡ Fun fact Not only spiders are web developer
+🔭 I’m currently working as SDE Intern<br><br>🌱 I’m currently learning Data science<br><br>👯 I’m looking to collaborate on web dev projects<br><br>👨‍💻 All of my experiences and projects are available at my [portfolio](https://divyanshuprasad.dev)<br><br>💬 Ask me about react, svelte, python and java<br><br>📫 How to reach me divyanshu9871@gmail.com<br><br>⚡ Fun fact Not only spiders are web developer
 
 
 ## 🌐 Socials:
